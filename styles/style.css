@@ -1,0 +1,94 @@
+/* google font css */
+body {
+  font-family: "Poppins", sans-serif;
+}
+/* body background color */
+body {
+  background-color: #e5e5e5;
+}
+/* button custom color */
+.ccc-book-now {
+  text-decoration: none;
+  background-color: #ffffff;
+  color: #3f87f5;
+  border-radius: 5px;
+  padding: 10px 43px;
+  border: none;
+  box-shadow: none;
+}
+/* 3rd image color */
+.inside-caption {
+  color: black;
+}
+
+/* packages section */
+.ccc-title {
+  font-weight: 700;
+  color: #231d4f;
+}
+
+ul {
+  padding-left: 0;
+}
+ul > li {
+  list-style: none;
+}
+ul > li > .fa-check {
+  color: #5243c2;
+}
+/* card button style */
+.ccc-choose-now {
+  font-weight: 700;
+  color: #3f87f5;
+  background-color: #ffffff;
+  border: 0;
+  border-radius: 10px;
+  width: 100%;
+}
+
+/* sepcial card  */
+.special-card {
+  background-color: #3f87f5;
+  color: #ffffff;
+  border-radius: 26px;
+}
+.special-card .ccc-title {
+  color: #ffffff;
+}
+
+.special-card ul > li > .fa-check {
+  color: #ffffff;
+}
+/* about us section  */
+.card-body img {
+  width: 100px;
+  height: 100px;
+}
+.about-us-passage-1 {
+  color: #6c6c6c;
+  font-weight: 400;
+}
+.about-us-title {
+  color: #0c1920;
+  font-weight: 600;
+}
+.about-us-passage-2 {
+  color: #747474;
+  font-weight: 600;
+}
+/* faq section */
+.ccc-faq-button {
+  width: 100%;
+  border: 2px solid #d5e5fb;
+  border-radius: 5px;
+}
+/* footer */
+footer {
+  height: 300px;
+  background-color: #0b0d17;
+  color: #d9dbe1;
+}
+footer img {
+  width: 75px;
+  height: 75px;
+}
